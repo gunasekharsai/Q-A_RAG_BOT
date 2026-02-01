@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-openai
+langgraph
+faiss-cpu
+python-dotenv
+beautifulsoup4
+playwright
+tiktoken
